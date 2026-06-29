@@ -2,7 +2,7 @@
 
 ## About
 
-This repository provides companion materials for the article:
+This repository provides supplementary materials for the article:
 
 > *Towards a Pan-African Economic Union? A Multimethod Study of Tax Harmonization.*
 
