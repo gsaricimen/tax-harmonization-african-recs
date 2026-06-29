@@ -19,7 +19,6 @@ The study examines de jure tax harmonization across African Regional Economic Co
 | `data` | XML template and definitions of the XML tags. The underlying country-level dataset is not included. |
 | `comparative-tax-law` | Decision criteria used in the comparative legal analysis, together with explanations of the relevant data types. |
 | `nlp` | Documentation of the NLP workflow, code structure, methodological references, and reproducibility notes. |
-| `hhi` | Excel workbook for the HHI-based harmonization calculation, with instructions for use. |
 | `findings` | Comparative tables and REC-level assessment texts corresponding to the study's findings. |
 
 ## Data availability
