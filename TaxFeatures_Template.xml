@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TaxProfile>
+  <A_Country />
+  <B_Currency />
+  <C_RECs />
+  <D_report_source />
+  <E_TF>
+    <E1_DT>
+      <E11_CT>
+        <E111_CT>
+          <aaCT_1TLRes />
+          <abCT_2TLBase />
+          <ahCT_8TRRat />
+          <aiCT_9TRAmt />
+          <ajCT_10TRCap />
+          <adCT_4TILos />
+          <agCT_7TIUnil />
+        </E111_CT>
+        <E112_NonResidentCompanies>
+          <akCT_11NRRat />
+          <alCT_12NRCapSha />
+          <amCT_13NRCapImm />
+          <WithholdingTaxRates>
+            <anCT_14NRBra />
+            <aoCT_15NRDiv />
+            <apCT_16NRInt />
+            <arCT_17NRRoy />
+            <asCT_18NRFTec />
+            <atCT_19NRFMan />
+          </WithholdingTaxRates>
+        </E112_NonResidentCompanies>
+        <E113_OtherFeatures>
+          <afCT_6TIParRel />
+          <acCT_3TLGrTre />
+          <aeCT_5TIInc />
+          <AntiAvoidanceLegislation>
+            <auCT_20AATP />
+            <axCT_21AALim />
+            <ayCT_22AACFC />
+          </AntiAvoidanceLegislation>
+        </E113_OtherFeatures>
+      </E11_CT>
+      <E12_PT>
+        <E121_PT>
+          <baPT_1TLRes />
+          <bbPT_2TLInc />
+          <bdPT_4TSTar />
+          <bePT_5TSBra />
+          <ETROnEmployment>
+            <bPT_TRmw />
+            <bfPT_6TRTMin />
+            <bgPT_7TRTTop />
+          </ETROnEmployment>
+          <bcPT_3TLUnil />
+        </E121_PT>
+        <E122_NonResidentIndividuals>
+          <WithholdingTaxRates>
+            <bhPT_8NREmp />
+            <biPT_9NR2Div />
+            <bjPT_10NR3Int />
+            <bkPT_11NR4Roy />
+            <blPT_12NR5FTec />
+            <bmPT_13NR6FDir />
+          </WithholdingTaxRates>
+        </E122_NonResidentIndividuals>
+      </E12_PT>
+    </E1_DT>
+    <E2_VT>
+      <caVT_1Rat />
+      <cbVT_2Red />
+      <ccVT_3Incr />
+      <cdVT_4Reg />
+      <ceVT_5Gro />
+    </E2_VT>
+    <E3_Ex>
+      <daEX_1Prod />
+    </E3_Ex>
+    <E4_PW>
+      <edPW_4TraIGT />
+      <ebPW_OwnNWIn />
+      <ecPW_OwnNWCo />
+      <eaPW_OwnREs />
+      <egPW_6TranCap />
+      <efPW_5TraTTax />
+      <ehPW_7TranSta />
+    </E4_PW>
+  </E_TF>
+</TaxProfile>
