@@ -33,4 +33,4 @@ Citation details will be added following publication of the article.
 
 ## Licence
 
-No licence has yet been assigned to this repository.  
+This repository is licensed under the terms set out in LICENSE.md.  
