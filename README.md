@@ -4,7 +4,9 @@
 
 This repository provides supplementary materials for the article:
 
-> *Towards a Pan-African Economic Union? A Multimethod Study of Tax Harmonization.*
+> *Towards a Pan-African Economic Union? A Multimethod Study of Tax Harmonization, ....cite....*
+
+Any use of the supplementary materials provided in this repository must cite the publication above.
 
 The study examines de jure tax harmonization across African Regional Economic Communities through three complementary approaches:
 
