@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the following article."
+title: "tax-harmonization-african-recs"
+authors:
+  - family-names: "Saricimen"
+    given-names: "Gokhan"
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Saricimen"
+      given-names: "Gokhan"
+  title: "Towards a Pan-African Economic Union? A Multimethod Study of Tax Harmonization"
+  journal: "Intertax"
+  year: 2026
+  volume: 54
+  issue: 11
+  start: 650
+  end: 676
+  url: "https://kluwerlawonline.com/journalarticle/Intertax/54.11/TAXI2026072"
