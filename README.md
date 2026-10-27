@@ -29,8 +29,11 @@ The repository does not reproduce or distribute the underlying country-level res
 
 ## Citations
 Saricimen, G. (2026). Towards a pan-African economic union? A multimethod study of tax harmonization. Intertax, 54(11), 650–676. https://kluwerlawonline.com/journalarticle/Intertax/54.11/TAXI2026072
+
 Gokhan Saricimen, ‘Towards a Pan-African Economic Union? A Multimethod Study of Tax Harmonization’ (2026) 54(11) Intertax 650. 
+
 G. Saricimen, “Towards a pan-African economic union? A multimethod study of tax harmonization,” Intertax, vol. 54, no. 11, pp. 650–676, 2026.
+
 Saricimen, Gokhan. “Towards a Pan-African Economic Union? A Multimethod Study of Tax Harmonization.” Intertax 54, no. 11 (2026): 650–76. https://kluwerlawonline.com/journalarticle/Intertax/54.11/TAXI2026072
 
 ## Licence
