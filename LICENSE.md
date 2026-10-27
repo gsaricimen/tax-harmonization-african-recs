@@ -1,6 +1,6 @@
 # Research Materials Licence
 
-Copyright © 2026 Gokhan Saricimen
+Copyright © 2026
 
 The materials in this repository may be used, copied, adapted, and shared for non-commercial research, teaching, and scholarly purposes, provided that the requirements below are met.
 
@@ -8,7 +8,7 @@ The materials in this repository may be used, copied, adapted, and shared for no
 
 Any use of these materials must cite the related article:
 
-> Gokhan Saricimen, “Towards a Pan-African Economic Union? A Multimethod Study of Tax Harmonization,” *Intertax*.
+> Saricimen, Gokhan. “Towards a Pan-African Economic Union? A Multimethod Study of Tax Harmonization.” Intertax 54, no. 11 (2026): 650–76. https://kluwerlawonline.com/journalarticle/Intertax/54.11/TAXI2026072
 
 Users must also indicate any modifications made to the materials.
 
